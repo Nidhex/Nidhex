@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">🎓 Computer Science Student | CSE '29<br>☕ Currently learning **Java, DSA & Backend Development**<br>💻 Exploring code, solving problems & building things<br>🚀 Learning by **building, breaking, debugging, and rebuilding**<br>🌱 Currently in the loop:<br>**Learn → Build → Debug → Repeat**</p>
+<p data-importer="text" align="left">🎓 Computer Science Student | CSE '29<br>☕ Currently learning **Java, DSA & Backend Development**<br>💻 Exploring code, solving problems & building things<br>🚀 Learning by **building, breaking, debugging, and rebuilding**<br>🌱 Currently in the loop:<br><br>**Learn → Build → Debug → Repeat**</p>
 
 ###
 
