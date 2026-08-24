@@ -2,15 +2,11 @@
 
 ###
 
-<p data-importer="text" align="left"></p>
-
-###
-
 <h2 data-importer="text" align="left">## 👨‍💻 About Me</h2>
 
 ###
 
-<p data-importer="text" align="left">🎓 Computer Science Student | CSE '29<br><br>☕ Currently learning **Java, DSA & Backend Development**<br><br>💻 Exploring code, solving problems & building things<br><br>🚀 Learning by **building, breaking, debugging, and rebuilding**<br><br>🌱 Currently in the loop:<br><br>**Learn → Build → Debug → Repeat**</p>
+<p data-importer="text" align="left">🎓 Computer Science Student | CSE '29<br>☕ Currently learning **Java, DSA & Backend Development**<br>💻 Exploring code, solving problems & building things<br>🚀 Learning by **building, breaking, debugging, and rebuilding**<br>🌱 Currently in the loop:<br><br>**Learn → Build → Debug → Repeat**</p>
 
 ###
 
@@ -46,11 +42,18 @@
 
 ###
 
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/Nidhex/Nidhex/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Nidhex/Nidhex/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <h2 data-importer="text" align="left">🚀 Let's Connect & Collaborate</h2>
 
 ###
 
-<div data-importer="socials" align="left">
+<div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/nidhish-vaishnav-0aa288386/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -66,17 +69,6 @@
   <a href="t.me/Nidsss1003" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
-</div>
-
-###
-
-<h2 data-importer="text" align="left">📈 The Numbers</h2>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Nidhex/Nidhex/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Nidhex/Nidhex/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
