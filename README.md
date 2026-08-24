@@ -1,6 +1,6 @@
 <div align="center">
 
-# 𝚈𝚘𝚞𝚛 𝚏𝚛𝚒𝚎𝚗𝚍𝚕𝚢 𝚗𝚎𝚒𝚐𝚑𝚋𝚘𝚛𝚑𝚘𝚘𝚍 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Your+friendly+neighborhood+developer" alt="Typing SVG" />
 
 </div>
 
@@ -13,8 +13,8 @@
 ☕ Currently learning <b>Java, DSA & Backend Development</b><br>
 💻 Exploring code, solving problems & building things<br>
 🚀 Learning by <b>building, breaking, debugging, and rebuilding</b><br>
-🌱 Currently in the loop:<br><br>
-
+🌱 Currently in the loop:
+<br><br>
 <b>Learn → Build → Debug → Repeat</b>
 </p>
 
@@ -22,16 +22,16 @@
 
 <h2 align="left">⚔️ Tech Arsenal</h2>
 
-<div align="center">
+<table align="center">
 
-<table>
 <tr>
-<th>💻 Languages</th>
-<th>🌐 Frontend</th>
-<th>⚙️ Backend</th>
+<th align="center">💻 Languages</th>
+<th align="center">🌐 Frontend</th>
+<th align="center">⚙️ Backend</th>
 </tr>
 
 <tr>
+
 <td align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java"/>
@@ -44,9 +44,9 @@
 
 <td align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML"/>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS"/>
 
 </td>
 
@@ -55,15 +55,17 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java"/>
 
 </td>
+
 </tr>
 
 <tr>
-<th>🗄️ Databases</th>
-<th>🛠️ Tools</th>
-<th>☁️ Cloud</th>
+<th align="center">🗄️ Databases</th>
+<th align="center">🛠️ Tools</th>
+<th align="center">☁️ Cloud</th>
 </tr>
 
 <tr>
+
 <td align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL"/>
@@ -89,17 +91,19 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50" alt="Azure"/>
 
 </td>
-</tr>
-</table>
 
-</div>
+</tr>
+
+</table>
 
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Nidhex/Nidhex/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
 
-  <img src="https://raw.githubusercontent.com/Nidhex/Nidhex/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"/>
+<img src="https://raw.githubusercontent.com/Nidhex/Nidhex/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+
+<img src="https://raw.githubusercontent.com/Nidhex/Nidhex/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+
 </div>
 
 ###
@@ -112,12 +116,12 @@
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn"/>
 </a>
 
-<a href="https://www.instagram.com/nidhish_vshn07/" target="_blank">
+<a href="https://www.instagram.com/nidhish_vshn07?igsh=MWptdnlybmxjZXdpaQ==" target="_blank">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram"/>
 </a>
 
 <a href="https://x.com/nidhex" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter/X"/>
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="X / Twitter"/>
 </a>
 
 <a href="mailto:nidsvaishnav10@gmail.com">
@@ -133,11 +137,20 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nidhex/Nidhex/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Nidhex/Nidhex/pacman-output/pacman-contribution-graph-dark.svg?game=pacman"
+  />
 
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nidhex/Nidhex/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Nidhex/Nidhex/pacman-output/pacman-contribution-graph.svg?game=pacman"
+  />
 
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nidhex/Nidhex/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img
+    alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/Nidhex/Nidhex/pacman-output/pacman-contribution-graph.svg?game=pacman"
+  />
 </picture>
 
 ###
