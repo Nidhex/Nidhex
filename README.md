@@ -27,16 +27,17 @@
 
 ###
 
-<h2 align="left">💭 Random Dev Quote</h2>
-
-###
-
-<p align="center">
+<div align="center">
+  <h2>💭 Developer Thoughts</h2>
+  <p><sub><i>A little inspiration from the world of code.</i></sub></p>
+  <br/>
   <img
     src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
     alt="Random Developer Quote"
+    width="720"
   />
-</p>
+  <br/>
+</div>
 
 ###
 
