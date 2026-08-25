@@ -1,4 +1,8 @@
-<h1 data-importer="text" align="center"><code>Your friendly neighborhood developer</code></h1>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="200" alt="dancing gif" />
+  <br><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=0&color=FFFFFF&center=true&vCenter=true&repeat=true&width=520&lines=Your+friendly+neighborhood+developer" alt="Your friendly neighborhood developer" />
+</div>
 
 ###
 
