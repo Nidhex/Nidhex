@@ -10,7 +10,16 @@
 
 ###
 
-<p data-importer="text" align="left">🎓 Computer Science Student | CSE '29<br>☕ Currently learning **Java, DSA & Backend Development**<br>💻 Exploring code, solving problems & building things<br>🚀 Learning by **building, breaking, debugging, and rebuilding**<br>🌱 Currently in the loop:<br><br>**Learn → Build → Debug → Repeat**</p>
+<table>
+  <tr>
+    <td width="60%" valign="middle">
+      <p data-importer="text" align="left">🎓 Computer Science Student | CSE '29<br><br>☕ Currently learning **Java, DSA & Backend Development**<br><br>💻 Exploring code, solving problems & building things<br><br>🚀 Learning by **building, breaking, debugging, and rebuilding**<br><br>🌱 Currently in the loop:<br><br>**Learn → Build → Debug → Repeat**</p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="320" alt="coding gif" />
+    </td>
+  </tr>
+</table>
 
 ###
 
