@@ -27,6 +27,19 @@
 
 ###
 
+<h2 align="left">💭 Random Dev Quote</h2>
+
+###
+
+<p align="center">
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
+    alt="Random Developer Quote"
+  />
+</p>
+
+###
+
 <h2 data-importer="text" align="left">⚔️ Tech Arsenal</h2>
 
 ###
