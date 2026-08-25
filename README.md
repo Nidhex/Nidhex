@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">🎓 Computer Science Student | CSE '29<br>☕ Currently learning **Java, DSA & Backend Development**<br>💻 Exploring code, solving problems & building things<br>🚀 Learning by **building, breaking, debugging, and rebuilding**<br>🌱 Currently in the loop:<br><br>**Learn → Build → Debug → Repeat**</p>
+<p data-importer="text" align="left">🎓 Computer Science Student | CSE '29<br><br>☕ Currently learning **Java, DSA & Backend Development**<br><br>💻 Exploring code, solving problems & building things<br><br>🚀 Learning by **building, breaking, debugging, and rebuilding**<br><br>🌱 Currently in the loop:<br><br>**Learn → Build → Debug → Repeat**</p>
 
 ###
 
@@ -69,21 +69,21 @@
 
 ###
 
-<div data-importer="socials" align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/nidhish-vaishnav-0aa288386/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
   <a href="https://www.instagram.com/nidhish_vshn07?igsi=MWptdnlybmxjZXdpaQ==" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
   <a href="https://x.com/nidhex" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
   </a>
   <a href="nidsvaishnav10@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
   <a href="t.me/Nidsss1003" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
   </a>
 </div>
 
