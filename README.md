@@ -1,136 +1,179 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="300" alt="dancing gif" />
-  <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=0&color=FFFFFF&center=true&vCenter=true&repeat=true&width=600&lines=Your+friendly+neighborhood+developer" alt="Your friendly neighborhood developer" />
+
+  <!-- Header Banner -->
+  <a href="https://github.com/Nidhex">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,20&height=220&section=header&text=NIDHISH%20VAISHNAV&fontSize=50&fontAlignY=38&desc=%E2%9A%A1%20CSE%20'29%20%7C%20Code%20Crafter%20%7C%20Backend%20Alchemist&descAlignY=62&descAlign=50&animation=twinkling" width="100%" alt="Header Banner" />
+  </a>
+
+  <!-- Animated Typing Tagline -->
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2800&pause=1000&color=00F0FF&center=true&vCenter=true&repeat=true&width=650&height=50&lines=%E2%96%B6+Building+scalable+backends+%26+modern+apps;%E2%96%B6+Grinding+Java%2C+DSA+%26+Competitive+Problem+Solving;%E2%96%B6+Turning+caffeine+into+clean%2C+efficient+code+%E2%98%95;%E2%96%B6+Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Debug+%E2%86%92+Repeat+%F0%9F%94%84" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  <!-- Profile Quick Badges -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Nidhex&label=PROFILE%20VIEWS&color=00F0FF&style=flat-square" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/STATUS-CHILLIN'%20%26%20CODIN'-8A2BE2?style=flat-square" alt="Status" />
+    <img src="https://img.shields.io/badge/FOCUS-JAVA%20%7C%20DSA%20%7C%20BACKEND-FF007F?style=flat-square" alt="Focus" />
+  </p>
+
 </div>
 
-###
+---
 
-<p data-importer="text" align="left"></p>
-
-###
-
-<h2 data-importer="text" align="left">## 👨‍💻 About Me</h2>
-
-###
+### 🔮 System Diagnostics & About Me
 
 <table>
   <tr>
-    <td width="60%" valign="middle">
-      <p data-importer="text" align="left">🎓 Computer Science Student | CSE '29<br><br>☕ Currently learning **Java, DSA & Backend Development**<br><br>💻 Exploring code, solving problems & building things<br><br>🚀 Learning by **building, breaking, debugging, and rebuilding**<br><br>🌱 Currently in the loop:<br><br>**Learn → Build → Debug → Repeat**</p>
+    <td width="55%" valign="top">
+      <pre>
+<b><span style="color: #00F0FF;">nidhex@github-mainframe</span>:<span style="color: #8A2BE2;">~</span>$</b> neofetch --dev-mode
+<span style="color: #00F0FF;">──────────────────────────────────────────────</span>
+  <b>👤 Identity</b>      : Nidhish Vaishnav
+  <b>🎓 Academics</b>     : Computer Science & Engg. (CSE '29)
+  <b>☕ Fuel Level</b>    : 99.8% Roasted Coffee
+  <b>🎯 Current Quest</b> : Crushing Java DSA & Advanced Backend
+  <b>🌱 In the Loop</b>   : <code>Learn ➔ Build ➔ Break ➔ Rebuild</code>
+  <b>⚔️ Weaponry</b>      : Java, C++, JavaScript, React, Node.js
+  <b>⚡ Philosophy</b>    : "Make it work, make it right, make it fast."
+<span style="color: #00F0FF;">──────────────────────────────────────────────</span>
+<b><span style="color: #00F0FF;">nidhex@github-mainframe</span>:<span style="color: #8A2BE2;">~</span>$</b> <span style="animation: blink 1s infinite;">█</span></pre>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="320" alt="coding gif" />
+    <td width="45%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="340" style="border-radius: 12px;" alt="Coding Vibe" />
     </td>
   </tr>
 </table>
 
-###
+---
+
+### ⚔️ Tech Arsenal & Stack
 
 <div align="center">
-  <h2>💭 Developer Thoughts</h2>
-  <p><sub><i>A little inspiration from the world of code.</i></sub></p>
-  <br/>
-  <img
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
-    alt="Random Developer Quote"
-    width="720"
-  />
-  <br/>
+
+  <p><b>⚡ Core Languages & Systems</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cpp,c,js,ts,python" alt="Core Languages" />
+  </a>
+  <br/><br/>
+
+  <p><b>🌐 Frontend Alchemy</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" alt="Frontend Tech" />
+  </a>
+  <br/><br/>
+
+  <p><b>⚙️ Backend Engines & Databases</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,azure,postman" alt="Backend and Database Tech" />
+  </a>
+  <br/><br/>
+
+  <p><b>🛠️ Dev Tools & Environments</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux,bash" alt="Developer Tools" />
+  </a>
+
 </div>
 
-###
+---
 
-<h2 data-importer="text" align="left">⚔️ Tech Arsenal</h2>
-
-###
-
-<table data-importer="techs" align="center">
-  <tbody>
-    <tr>
-      <td align="center" valign="top" style="padding: 10px;">
-        <h3>💻 Languages</h3>
-        <div style="white-space: nowrap;">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-        </div>
-      </td>
-      <td align="center" valign="top" style="padding: 10px;">
-        <h3>🌐 Frontend</h3>
-        <div style="white-space: nowrap;">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-        </div>
-      </td>
-      <td align="center" valign="top" style="padding: 10px;">
-        <h3>⚙️ Backend</h3>
-        <div style="white-space: nowrap;">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" style="padding: 10px;">
-        <h3>🔐 Security</h3>
-        <div style="white-space: nowrap;">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
-        </div>
-      </td>
-      <td align="center" valign="top" style="padding: 10px;">
-        <h3>🗄️ Databases</h3>
-        <div style="white-space: nowrap;">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-        </div>
-      </td>
-      <td align="center" valign="top" style="padding: 10px;">
-        <h3>🛠️ Tools</h3>
-        <div style="white-space: nowrap;">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo" />
-        </div>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-###
-
-<h2 data-importer="text" align="left">🚀 Let's Connect & Collaborate</h2>
-
-###
+### 🕹️ Mission Control & Contribution Arcade
 
 <div align="center">
+  <p><b>👾 PACMAN DEVOURING COMMITS</b></p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nidhex/Nidhex/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nidhex/Nidhex/pacman-output/pacman-contribution-graph.svg?game=pacman">
+    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Nidhex/Nidhex/pacman-output/pacman-contribution-graph-dark.svg?game=pacman" width="100%" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- GitHub Streak Card -->
+  <a href="https://github.com/Nidhex">
+    <img src="https://streak-stats.demolab.com?user=Nidhex&theme=tokyonight&hide_border=false&border_radius=8&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" />
+  </a>
+  <br/><br/>
+
+  <!-- Stats & Languages Output from Nidhex Workflows -->
+  <img src="https://raw.githubusercontent.com/Nidhex/Nidhex/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="165" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/Nidhex/Nidhex/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="165" alt="Top Languages" />
+</div>
+
+---
+
+### 🎧 The Coding Sanctuary
+
+<div align="center">
+  <br/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="750" />
+</div>
+
+---
+
+### 🚀 Let's Connect & Build Together
+
+<div align="center">
+
   <a href="https://www.linkedin.com/in/nidhish-vaishnav-0aa288386/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/nidhish_vshn07?igsi=MWptdnlybmxjZXdpaQ==" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
-  </a>
+  &nbsp;
   <a href="https://x.com/nidhex" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
+    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
   </a>
-  <a href="nidsvaishnav10@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  &nbsp;
+  <a href="https://t.me/Nidsss1003" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="t.me/Nidsss1003" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
+  &nbsp;
+  <a href="mailto:nidsvaishnav10@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  &nbsp;
+  <a href="https://www.instagram.com/nidhish_vshn07?igsi=MWptdnlybmxjZXdpaQ==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+
 </div>
 
-###
+---
 
-<h2 data-importer="text" align="left">📈 The Numbers</h2>
+### 👾 Secret Terminal Access
 
-###
+<details>
+  <summary><b>⚡ [CLICK TO INITIALIZE DEVELOPER EASTER EGG] 🔓</b></summary>
+  <br/>
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nidhex/Nidhex/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nidhex/Nidhex/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nidhex/Nidhex/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+```text
+       ___  _   __  ____  __  __ _______  __
+      / _ \/ | / / /  _/ / / / // ____/ |/ /
+     / // /  |/ /  / /  / /_/ // __/  |   / 
+    / // / /|  / _/ /  / __  // /___ /   |  
+   /____/_/ |_/ /___/ /_/ /_//_____//_/|_|  
+                                            
+   >>> SYSTEM STATUS: OPERATIONAL
+   >>> CAFFEINE LEVEL: OPTIMAL
+   >>> BUGS SQUASHED: 404 (BUG NOT FOUND)
+   >>> MISSION: MASTER DISTRIBUTED SYSTEMS & ARCHITECT THE FUTURE
+```
 
-###
+> *"There are only two hard things in Computer Science: cache invalidation, naming things, and off-by-one errors."*
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Nidhex/Nidhex/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Nidhex/Nidhex/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</details>
+
+---
+
+<!-- Bottom Animated Wave -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,20&height=100&section=footer" width="100%" alt="Footer Wave" />
+  <p align="center">
+    <sub>Crafted with 💜, ☕, and an unhealthy amount of debugging by <b>Nidhish Vaishnav</b></sub>
+  </p>
 </div>
-
-###
