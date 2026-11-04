@@ -1,88 +1,100 @@
 <div align="center">
 
-  <!-- Cool Man Coding with Cigarette (Aesthetic Retro-Cyberpunk GIF) -->
+  <!-- Self-Contained Vector Cyberpunk Banner -->
   <a href="https://github.com/Nidhex">
-    <img src="https://media1.tenor.com/m/pDMEGHq6aCwAAAAC/smoke-smoking.gif" width="720" style="border-radius: 10px; max-width: 100%;" alt="Developer Coding at Midnight with Cigarette Smoke" />
+    <img src="./assets/banner.svg" width="100%" alt="NIDHISH VAISHNAV // MAINFRAME" />
   </a>
 
   <br/><br/>
 
-  <!-- Developer Title & Monospace Identity -->
-  <h1><samp>⚡ N I D H I S H &nbsp; V A I S H N A V ⚡</samp></h1>
-  <p><code>&lt; Computer Science Student '29 &nbsp;|&nbsp; Backend Architect in Training &nbsp;|&nbsp; Problem Solver &gt;</code></p>
-
-  <!-- Animated Terminal Typing SVG (Neon Matrix Green to match CRT screens) -->
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=1000&color=00FF66&center=true&vCenter=true&repeat=true&width=680&height=45&lines=%E2%96%B6+Executing+midnight+coding+session...;%E2%96%B6+Grinding+Java%2C+DSA+%26+High-Performance+Backends;%E2%96%B6+Turning+logic+into+reality+through+pure+focus+%E2%9A%A1;%E2%96%B6+Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Debug+%E2%86%92+Repeat+%F0%9F%94%84" alt="Typing SVG" />
-  </a>
-
-  <br/>
-
-  <!-- Terminal Style Telemetry Badges -->
+  <!-- Quick Status Badges -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Nidhex&label=SYSTEM%20VISITORS&color=00FF66&style=flat-square" alt="System Visitors" />
-    <img src="https://img.shields.io/badge/MODE-MIDNIGHT%20DEV-000000?style=flat-square&logo=visualstudiocode&logoColor=00FF66" alt="Mode" />
-    <img src="https://img.shields.io/badge/STACK-JAVA%20%7C%20DSA%20%7C%20BACKEND-111111?style=flat-square&logoColor=00FF66" alt="Stack" />
+    <img src="https://komarev.com/ghpvc/?username=Nidhex&label=SYSTEM%20VISITORS&color=00FFCC&style=flat-square" alt="System Visitors" />
+    <img src="https://img.shields.io/badge/IDENTITY-NIDHEX-050608?style=flat-square&logo=archlinux&logoColor=00FFCC" alt="Identity" />
+    <img src="https://img.shields.io/badge/DEGREE-CSE%20'29-050608?style=flat-square&logo=codeforces&logoColor=A855F7" alt="Degree" />
+    <img src="https://img.shields.io/badge/STATUS-COMPILING%20DREAMS-050608?style=flat-square&logo=java&logoColor=EC4899" alt="Status" />
   </p>
 
 </div>
 
----
-
-### 🔮 System Diagnostics & About Me
-
-<table>
-  <tr>
-    <td width="55%" valign="top">
-      <pre>
-<b><span style="color: #00F0FF;">nidhex@github-mainframe</span>:<span style="color: #8A2BE2;">~</span>$</b> neofetch --dev-mode
-<span style="color: #00F0FF;">──────────────────────────────────────────────</span>
-  <b>👤 Identity</b>      : Nidhish Vaishnav
-  <b>🎓 Academics</b>     : Computer Science & Engg. (CSE '29)
-  <b>☕ Fuel Level</b>    : 99.8% Roasted Coffee
-  <b>🎯 Current Quest</b> : Crushing Java DSA & Advanced Backend
-  <b>🌱 In the Loop</b>   : <code>Learn ➔ Build ➔ Break ➔ Rebuild</code>
-  <b>⚔️ Weaponry</b>      : Java, C++, JavaScript, React, Node.js
-  <b>⚡ Philosophy</b>    : "Make it work, make it right, make it fast."
-<span style="color: #00F0FF;">──────────────────────────────────────────────</span>
-<b><span style="color: #00F0FF;">nidhex@github-mainframe</span>:<span style="color: #8A2BE2;">~</span>$</b> <span style="animation: blink 1s infinite;">█</span></pre>
-    </td>
-    <td width="45%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="340" style="border-radius: 12px;" alt="Coding Vibe" />
-    </td>
-  </tr>
-</table>
+```text
+    ███╗   ██╗██╗██████╗ ██╗  ██╗██╗███████╗██╗  ██╗   
+    ████╗  ██║██║██╔══██╗██║  ██║██║██╔════╝██║  ██║   
+    ██╔██╗ ██║██║██║  ██║███████║██║███████╗███████║   
+    ██║╚██╗██║██║██║  ██║██╔══██║██║╚════██║██╔══██║   
+    ██║ ╚████║██║██████╔╝██║  ██║██║███████║██║  ██║   
+    ╚═╝  ╚═══╝╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝   
+    [ SYSTEM ARCHITECT // BACKEND ALCHEMIST // CSE '29 ]
+```
 
 ---
 
-### ⚔️ Tech Arsenal & Stack
+### 🖥️ `nidhex@mainframe:~$ neofetch --cyberdeck`
+
+```yaml
+  Host         : B.Tech Computer Science & Engineering (2025 - 2029)
+  Kernel       : DevKernel 6.11-hardened (fueled by Caffeine)
+  Uptime       : 18+ Years of Continuous Learning & Debugging
+  Shell        : zsh 5.9 (x86_64-nidhex-matrix)
+  Terminal     : alacritty / tmux / nvim
+  CPU Load     : [██████████████████████░] 94% (Grinding Core Java & DSA)
+  RAM Load     : [██████████████████░░░░] 78% (Exploring Scalable Systems)
+  Caffeine     : [██████████████████████] 100% (Dark Roast Fuel Overflow)
+  Motto        : "Learn ➔ Build ➔ Break ➔ Debug ➔ Rebuild"
+```
+
+> [!TIP]
+> **Core Engineering Directive**: Code isn't just about syntax; it's about crafting performant logic, resilient architecture, and elegant solutions to intricate computational puzzles.
+
+---
+
+### ⚔️ Tech Arsenal & Weaponry
 
 <div align="center">
 
+  <!-- Core Languages -->
   <p><b>⚡ Core Languages & Systems</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,c,js,ts,python" alt="Core Languages" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,c,js,ts,python&theme=dark" alt="Core Languages" />
   </a>
   <br/><br/>
 
-  <p><b>🌐 Frontend Alchemy</b></p>
+  <!-- Frontend Stack -->
+  <p><b>🌐 Frontend Forge</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" alt="Frontend Tech" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap&theme=dark" alt="Frontend Stack" />
   </a>
   <br/><br/>
 
-  <p><b>⚙️ Backend Engines & Databases</b></p>
+  <!-- Backend & Databases -->
+  <p><b>⚙️ Backend Engines, Cloud & Storage</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,azure,postman" alt="Backend and Database Tech" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,azure,postman&theme=dark" alt="Backend & Storage" />
   </a>
   <br/><br/>
 
-  <p><b>🛠️ Dev Tools & Environments</b></p>
+  <!-- Environments & Developer Gear -->
+  <p><b>🛠️ Developer Gear & Environments</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux,bash" alt="Developer Tools" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux,bash&theme=dark" alt="Developer Gear" />
   </a>
 
 </div>
+
+---
+
+### 🎯 Active Quest Log & Roadmap (2025 - 2029)
+
+```markdown
+- [x] 🚀 Initialized Computer Science Undergraduate Journey (CSE '29)
+- [x] ☕ Mastered Object-Oriented Programming (OOP) paradigms in Java & C++
+- [x] 🌐 Built full-stack REST API applications with Node.js, Express & MongoDB
+- [/] ⚡ Conquering Data Structures & Algorithms in Java (Arrays ➔ LinkedLists ➔ Trees ➔ Graphs ➔ DP)
+- [/] 🧩 Grinding LeetCode, Codeforces & Competitive Programming problem sets
+- [ ] 🏗️ Architecting High-Concurrency Microservices & Event-Driven Systems
+- [ ] 🛡️ Mastering System Design, Caching (Redis), and Database Indexing internals
+- [ ] 🏆 Competing & Dominating in National / Global Hackathons
+```
 
 ---
 
@@ -100,6 +112,7 @@
 <br/>
 
 <div align="center">
+
   <!-- GitHub Streak Card -->
   <a href="https://github.com/Nidhex">
     <img src="https://streak-stats.demolab.com?user=Nidhex&theme=tokyonight&hide_border=false&border_radius=8&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" />
@@ -110,11 +123,12 @@
   <img src="https://raw.githubusercontent.com/Nidhex/Nidhex/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="165" alt="GitHub Stats" />
   &nbsp;
   <img src="https://raw.githubusercontent.com/Nidhex/Nidhex/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="165" alt="Top Languages" />
+
 </div>
 
 ---
 
-### 🎧 The Coding Sanctuary
+### 🎧 Developer Thoughts & Wisdom
 
 <div align="center">
   <br/>
@@ -123,7 +137,7 @@
 
 ---
 
-### 🚀 Let's Connect & Build Together
+### 🚀 Let's Connect & Collaborate
 
 <div align="center">
 
@@ -154,7 +168,7 @@
 ### 👾 Secret Terminal Access
 
 <details>
-  <summary><b>⚡ [CLICK TO INITIALIZE DEVELOPER EASTER EGG] 🔓</b></summary>
+  <summary><b>⚡ [CLICK TO INITIALIZE CLASSIFIED DEVELOPER PROTOCOL] 🔓</b></summary>
   <br/>
 
 ```text
@@ -164,21 +178,20 @@
     / // / /|  / _/ /  / __  // /___ /   |  
    /____/_/ |_/ /___/ /_/ /_//_____//_/|_|  
                                             
-   >>> SYSTEM STATUS: OPERATIONAL
-   >>> CAFFEINE LEVEL: OPTIMAL
-   >>> BUGS SQUASHED: 404 (BUG NOT FOUND)
-   >>> MISSION: MASTER DISTRIBUTED SYSTEMS & ARCHITECT THE FUTURE
+   >>> SYSTEM STATUS: 100% OPERATIONAL
+   >>> ACTIVE PROCESS: COMPILING BACKENDS & SOLVING DSA
+   >>> BUG POLICY: DETECT -> ISOLATE -> OBLITERATE
+   >>> DIRECTIVE: BUILD SOFTWARE THAT SHAPES TOMORROW
 ```
 
-> *"There are only two hard things in Computer Science: cache invalidation, naming things, and off-by-one errors."*
+> *"There are 10 types of people in the world: those who understand binary, and those who don't."*
 
 </details>
 
 ---
 
-<!-- Bottom Aesthetic Footer -->
 <div align="center">
   <p align="center">
-    <code>// EOF — Crafted with precision, focus & late-night coffee by <b>Nidhish Vaishnav</b></code>
+    <code>// EOF — Crafted with precision & focus by <b>Nidhish Vaishnav</b> (Nidhex)</code>
   </p>
 </div>
