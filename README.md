@@ -1,197 +1,136 @@
 <div align="center">
-
-  <!-- Self-Contained Vector Cyberpunk Banner -->
-  <a href="https://github.com/Nidhex">
-    <img src="./assets/banner.svg" width="100%" alt="NIDHISH VAISHNAV // MAINFRAME" />
-  </a>
-
-  <br/><br/>
-
-  <!-- Quick Status Badges -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Nidhex&label=SYSTEM%20VISITORS&color=00FFCC&style=flat-square" alt="System Visitors" />
-    <img src="https://img.shields.io/badge/IDENTITY-NIDHEX-050608?style=flat-square&logo=archlinux&logoColor=00FFCC" alt="Identity" />
-    <img src="https://img.shields.io/badge/DEGREE-CSE%20'29-050608?style=flat-square&logo=codeforces&logoColor=A855F7" alt="Degree" />
-    <img src="https://img.shields.io/badge/STATUS-COMPILING%20DREAMS-050608?style=flat-square&logo=java&logoColor=EC4899" alt="Status" />
-  </p>
-
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="300" alt="dancing gif" />
+  <br><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=0&color=FFFFFF&center=true&vCenter=true&repeat=true&width=600&lines=Your+friendly+neighborhood+developer" alt="Your friendly neighborhood developer" />
 </div>
 
-```text
-    ███╗   ██╗██╗██████╗ ██╗  ██╗██╗███████╗██╗  ██╗   
-    ████╗  ██║██║██╔══██╗██║  ██║██║██╔════╝██║  ██║   
-    ██╔██╗ ██║██║██║  ██║███████║██║███████╗███████║   
-    ██║╚██╗██║██║██║  ██║██╔══██║██║╚════██║██╔══██║   
-    ██║ ╚████║██║██████╔╝██║  ██║██║███████║██║  ██║   
-    ╚═╝  ╚═══╝╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝   
-    [ SYSTEM ARCHITECT // BACKEND ALCHEMIST // CSE '29 ]
-```
+###
 
----
+<p data-importer="text" align="left"></p>
 
-### 🖥️ `nidhex@mainframe:~$ neofetch --cyberdeck`
+###
 
-```yaml
-  Host         : B.Tech Computer Science & Engineering (2025 - 2029)
-  Kernel       : DevKernel 6.11-hardened (fueled by Caffeine)
-  Uptime       : 18+ Years of Continuous Learning & Debugging
-  Shell        : zsh 5.9 (x86_64-nidhex-matrix)
-  Terminal     : alacritty / tmux / nvim
-  CPU Load     : [██████████████████████░] 94% (Grinding Core Java & DSA)
-  RAM Load     : [██████████████████░░░░] 78% (Exploring Scalable Systems)
-  Caffeine     : [██████████████████████] 100% (Dark Roast Fuel Overflow)
-  Motto        : "Learn ➔ Build ➔ Break ➔ Debug ➔ Rebuild"
-```
+<h2 data-importer="text" align="left">## 👨‍💻 About Me</h2>
 
-> [!TIP]
-> **Core Engineering Directive**: Code isn't just about syntax; it's about crafting performant logic, resilient architecture, and elegant solutions to intricate computational puzzles.
+###
 
----
+<table>
+  <tr>
+    <td width="60%" valign="middle">
+      <p data-importer="text" align="left">🎓 Computer Science Student | CSE '29<br><br>☕ Currently learning **Java, DSA & Backend Development**<br><br>💻 Exploring code, solving problems & building things<br><br>🚀 Learning by **building, breaking, debugging, and rebuilding**<br><br>🌱 Currently in the loop:<br><br>**Learn → Build → Debug → Repeat**</p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="320" alt="coding gif" />
+    </td>
+  </tr>
+</table>
 
-### ⚔️ Tech Arsenal & Weaponry
+###
 
 <div align="center">
-
-  <!-- Core Languages -->
-  <p><b>⚡ Core Languages & Systems</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,c,js,ts,python&theme=dark" alt="Core Languages" />
-  </a>
-  <br/><br/>
-
-  <!-- Frontend Stack -->
-  <p><b>🌐 Frontend Forge</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap&theme=dark" alt="Frontend Stack" />
-  </a>
-  <br/><br/>
-
-  <!-- Backend & Databases -->
-  <p><b>⚙️ Backend Engines, Cloud & Storage</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,azure,postman&theme=dark" alt="Backend & Storage" />
-  </a>
-  <br/><br/>
-
-  <!-- Environments & Developer Gear -->
-  <p><b>🛠️ Developer Gear & Environments</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux,bash&theme=dark" alt="Developer Gear" />
-  </a>
-
-</div>
-
----
-
-### 🎯 Active Quest Log & Roadmap (2025 - 2029)
-
-```markdown
-- [x] 🚀 Initialized Computer Science Undergraduate Journey (CSE '29)
-- [x] ☕ Mastered Object-Oriented Programming (OOP) paradigms in Java & C++
-- [x] 🌐 Built full-stack REST API applications with Node.js, Express & MongoDB
-- [/] ⚡ Conquering Data Structures & Algorithms in Java (Arrays ➔ LinkedLists ➔ Trees ➔ Graphs ➔ DP)
-- [/] 🧩 Grinding LeetCode, Codeforces & Competitive Programming problem sets
-- [ ] 🏗️ Architecting High-Concurrency Microservices & Event-Driven Systems
-- [ ] 🛡️ Mastering System Design, Caching (Redis), and Database Indexing internals
-- [ ] 🏆 Competing & Dominating in National / Global Hackathons
-```
-
----
-
-### 🕹️ Mission Control & Contribution Arcade
-
-<div align="center">
-  <p><b>👾 PACMAN DEVOURING COMMITS</b></p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nidhex/Nidhex/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nidhex/Nidhex/pacman-output/pacman-contribution-graph.svg?game=pacman">
-    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Nidhex/Nidhex/pacman-output/pacman-contribution-graph-dark.svg?game=pacman" width="100%" />
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-
-  <!-- GitHub Streak Card -->
-  <a href="https://github.com/Nidhex">
-    <img src="https://streak-stats.demolab.com?user=Nidhex&theme=tokyonight&hide_border=false&border_radius=8&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" />
-  </a>
-  <br/><br/>
-
-  <!-- Stats & Languages Output from Nidhex Workflows -->
-  <img src="https://raw.githubusercontent.com/Nidhex/Nidhex/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="165" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/Nidhex/Nidhex/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="165" alt="Top Languages" />
-
-</div>
-
----
-
-### 🎧 Developer Thoughts & Wisdom
-
-<div align="center">
+  <h2>💭 Developer Thoughts</h2>
+  <p><sub><i>A little inspiration from the world of code.</i></sub></p>
   <br/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="750" />
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
+    alt="Random Developer Quote"
+    width="720"
+  />
+  <br/>
 </div>
 
----
+###
 
-### 🚀 Let's Connect & Collaborate
+<h2 data-importer="text" align="left">⚔️ Tech Arsenal</h2>
+
+###
+
+<table data-importer="techs" align="center">
+  <tbody>
+    <tr>
+      <td align="center" valign="top" style="padding: 10px;">
+        <h3>💻 Languages</h3>
+        <div style="white-space: nowrap;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+        </div>
+      </td>
+      <td align="center" valign="top" style="padding: 10px;">
+        <h3>🌐 Frontend</h3>
+        <div style="white-space: nowrap;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+        </div>
+      </td>
+      <td align="center" valign="top" style="padding: 10px;">
+        <h3>⚙️ Backend</h3>
+        <div style="white-space: nowrap;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" style="padding: 10px;">
+        <h3>🔐 Security</h3>
+        <div style="white-space: nowrap;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
+        </div>
+      </td>
+      <td align="center" valign="top" style="padding: 10px;">
+        <h3>🗄️ Databases</h3>
+        <div style="white-space: nowrap;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+        </div>
+      </td>
+      <td align="center" valign="top" style="padding: 10px;">
+        <h3>🛠️ Tools</h3>
+        <div style="white-space: nowrap;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo" />
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+###
+
+<h2 data-importer="text" align="left">🚀 Let's Connect & Collaborate</h2>
+
+###
 
 <div align="center">
-
   <a href="https://www.linkedin.com/in/nidhish-vaishnav-0aa288386/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  &nbsp;
-  <a href="https://x.com/nidhex" target="_blank">
-    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
-  </a>
-  &nbsp;
-  <a href="https://t.me/Nidsss1003" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  &nbsp;
-  <a href="mailto:nidsvaishnav10@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;
   <a href="https://www.instagram.com/nidhish_vshn07?igsi=MWptdnlybmxjZXdpaQ==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
-
+  <a href="https://x.com/nidhex" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
+  </a>
+  <a href="nidsvaishnav10@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
+  <a href="t.me/Nidsss1003" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
+  </a>
 </div>
 
----
+###
 
-### 👾 Secret Terminal Access
+<h2 data-importer="text" align="left">📈 The Numbers</h2>
 
-<details>
-  <summary><b>⚡ [CLICK TO INITIALIZE CLASSIFIED DEVELOPER PROTOCOL] 🔓</b></summary>
-  <br/>
+###
 
-```text
-       ___  _   __  ____  __  __ _______  __
-      / _ \/ | / / /  _/ / / / // ____/ |/ /
-     / // /  |/ /  / /  / /_/ // __/  |   / 
-    / // / /|  / _/ /  / __  // /___ /   |  
-   /____/_/ |_/ /___/ /_/ /_//_____//_/|_|  
-                                            
-   >>> SYSTEM STATUS: 100% OPERATIONAL
-   >>> ACTIVE PROCESS: COMPILING BACKENDS & SOLVING DSA
-   >>> BUG POLICY: DETECT -> ISOLATE -> OBLITERATE
-   >>> DIRECTIVE: BUILD SOFTWARE THAT SHAPES TOMORROW
-```
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nidhex/Nidhex/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nidhex/Nidhex/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nidhex/Nidhex/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
-> *"There are 10 types of people in the world: those who understand binary, and those who don't."*
+###
 
-</details>
-
----
-
-<div align="center">
-  <p align="center">
-    <code>// EOF — Crafted with precision & focus by <b>Nidhish Vaishnav</b> (Nidhex)</code>
-  </p>
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/Nidhex/Nidhex/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Nidhex/Nidhex/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
