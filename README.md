@@ -1,22 +1,28 @@
 <div align="center">
 
-  <!-- Header Banner -->
+  <!-- Cool Man Coding with Cigarette (Aesthetic Retro-Cyberpunk GIF) -->
   <a href="https://github.com/Nidhex">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,20&height=220&section=header&text=NIDHISH%20VAISHNAV&fontSize=50&fontAlignY=38&desc=%E2%9A%A1%20CSE%20'29%20%7C%20Code%20Crafter%20%7C%20Backend%20Alchemist&descAlignY=62&descAlign=50&animation=twinkling" width="100%" alt="Header Banner" />
+    <img src="https://media1.tenor.com/m/pDMEGHq6aCwAAAAC/smoke-smoking.gif" width="720" style="border-radius: 10px; max-width: 100%;" alt="Developer Coding at Midnight with Cigarette Smoke" />
   </a>
 
-  <!-- Animated Typing Tagline -->
+  <br/><br/>
+
+  <!-- Developer Title & Monospace Identity -->
+  <h1><samp>⚡ N I D H I S H &nbsp; V A I S H N A V ⚡</samp></h1>
+  <p><code>&lt; Computer Science Student '29 &nbsp;|&nbsp; Backend Architect in Training &nbsp;|&nbsp; Problem Solver &gt;</code></p>
+
+  <!-- Animated Terminal Typing SVG (Neon Matrix Green to match CRT screens) -->
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2800&pause=1000&color=00F0FF&center=true&vCenter=true&repeat=true&width=650&height=50&lines=%E2%96%B6+Building+scalable+backends+%26+modern+apps;%E2%96%B6+Grinding+Java%2C+DSA+%26+Competitive+Problem+Solving;%E2%96%B6+Turning+caffeine+into+clean%2C+efficient+code+%E2%98%95;%E2%96%B6+Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Debug+%E2%86%92+Repeat+%F0%9F%94%84" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=1000&color=00FF66&center=true&vCenter=true&repeat=true&width=680&height=45&lines=%E2%96%B6+Executing+midnight+coding+session...;%E2%96%B6+Grinding+Java%2C+DSA+%26+High-Performance+Backends;%E2%96%B6+Turning+logic+into+reality+through+pure+focus+%E2%9A%A1;%E2%96%B6+Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Debug+%E2%86%92+Repeat+%F0%9F%94%84" alt="Typing SVG" />
   </a>
 
   <br/>
 
-  <!-- Profile Quick Badges -->
+  <!-- Terminal Style Telemetry Badges -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Nidhex&label=PROFILE%20VIEWS&color=00F0FF&style=flat-square" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/STATUS-CHILLIN'%20%26%20CODIN'-8A2BE2?style=flat-square" alt="Status" />
-    <img src="https://img.shields.io/badge/FOCUS-JAVA%20%7C%20DSA%20%7C%20BACKEND-FF007F?style=flat-square" alt="Focus" />
+    <img src="https://komarev.com/ghpvc/?username=Nidhex&label=SYSTEM%20VISITORS&color=00FF66&style=flat-square" alt="System Visitors" />
+    <img src="https://img.shields.io/badge/MODE-MIDNIGHT%20DEV-000000?style=flat-square&logo=visualstudiocode&logoColor=00FF66" alt="Mode" />
+    <img src="https://img.shields.io/badge/STACK-JAVA%20%7C%20DSA%20%7C%20BACKEND-111111?style=flat-square&logoColor=00FF66" alt="Stack" />
   </p>
 
 </div>
@@ -170,10 +176,9 @@
 
 ---
 
-<!-- Bottom Animated Wave -->
+<!-- Bottom Aesthetic Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,20&height=100&section=footer" width="100%" alt="Footer Wave" />
   <p align="center">
-    <sub>Crafted with 💜, ☕, and an unhealthy amount of debugging by <b>Nidhish Vaishnav</b></sub>
+    <code>// EOF — Crafted with precision, focus & late-night coffee by <b>Nidhish Vaishnav</b></code>
   </p>
 </div>
